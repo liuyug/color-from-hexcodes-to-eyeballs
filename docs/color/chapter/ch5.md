@@ -28,7 +28,7 @@
 
 ![](https://yylifen.github.io/color-from-hexcodes-to-eyeballs/color/image/EmissionSpectrum.png)
 
-对于人类观察者来说，两种不同的光谱功率分布看起来是相同的，它们被称为[“元”](https://en.wikipedia.org/wiki/Metamerism_(color))。
+对于人类观察者来说，两种不同的光谱功率分布看起来是相同的，它们被称为[“元”](https://en.wikipedia.org/wiki/Metamerism_\(color\))。
 
 ![](https://yylifen.github.io/color-from-hexcodes-to-eyeballs/color/image/Metamers1.png)
 

@@ -6,7 +6,7 @@
 
 我们如何识别给定的色彩？如果我面前有柠檬，我怎么能通过电话告诉你它是什么色彩的？我也许会告诉你“柠檬是黄色的”，但是哪个是黄色的呢？你如何准确地识别每一种黄色？
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_382135F512C449943D36A9C35B9E8A4F38EB382A3D72DF63DC63D011CB7A8322_1521414272066_Yellows.png)
+![](https://yylifen.github.io/color-from-hexcodes-to-eyeballs/color/image/Yellows.png)
 
 由于了解到色彩是人类对电磁辐射的解释，我们可能会倾向于通过光谱通量从数学上定义色彩。任何人类可见的色彩将是一些加权组合单色(单波长)的色彩。单色色彩也称为光谱色彩。
 
@@ -28,7 +28,7 @@
 
 ![](https://yylifen.github.io/color-from-hexcodes-to-eyeballs/color/image/EmissionSpectrum.png)
 
-对于人类观察者来说，两种不同的光谱功率分布看起来是相同的，它们被称为[“元”](https://en.wikipedia.org/wiki/Metamerism_(color))。
+对于人类观察者来说，两种不同的光谱功率分布看起来是相同的，它们被称为[“元”](https://en.wikipedia.org/wiki/Metamerism_\(color\))。
 
 ![](https://yylifen.github.io/color-from-hexcodes-to-eyeballs/color/image/Metamers1.png)
 
